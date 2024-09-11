@@ -1,4 +1,4 @@
-<h1 align='center'> Green Forces <\h1>
+<h1 align='center'> Green Forces </h1>
 
 ## Overview
 

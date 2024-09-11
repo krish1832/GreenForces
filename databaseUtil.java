@@ -11,7 +11,7 @@ public class DatabaseUtil {
         String jdbcUrl = "jdbc:postgresql://localhost:5432/EVS";
         String dbUsername = "postgres";
         String dbPassword = "admin";
-        Class.forName("org.postgresql.Driver");
+        Class.forName("org.postgresql.Driver");//
         return DriverManager.getConnection(jdbcUrl, dbUsername, dbPassword);
     }
 }
